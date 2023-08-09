@@ -152,6 +152,38 @@ We made our experiments on the MIMIC-III and eICU datasets. In order to access t
 	    <td>continuous</td>
       <td>97.91</td>
 	</tr>
+  <tr>
+	    <td>Age</td>
+	    <td>continuous</td>
+		  <td>0.00</td>
+		  <td>Age</td>
+	    <td>continuous</td>
+      <td>0.00</td>
+	</tr>
+  <tr>
+	    <td>Admission diagnosis</td>
+	    <td>categorical</td>
+		  <td>0.00</td>
+		  <td>Admission diagnosis</td>
+	    <td>categorical</td>
+      <td>0.00</td>
+	</tr>
+  <tr>
+	    <td>Ethnicity</td>
+	    <td>categorical</td>
+		  <td>0.00</td>
+		  <td>Ethnicity</td>
+	    <td>categorical</td>
+      <td>0.00</td>
+	</tr>
+  <tr>
+	    <td>Gender</td>
+	    <td>categorical</td>
+		  <td>0.00</td>
+		  <td>Gender</td>
+	    <td>categorical</td>
+      <td>0.00</td>
+	</tr>
 </table>
 
 ## Main Entrance
